@@ -1,5 +1,34 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  {
+    "file": "1-cover.png",
+    "path": "/",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "2-roadmap.png",
+    "path": "/?demo=1&view=roadmap",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "3-guide.png",
+    "path": "/?demo=1&spoilers=off&guide=28",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "4-stats.png",
+    "path": "/?demo=1&view=stats",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  }
 ]
