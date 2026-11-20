@@ -27,7 +27,10 @@ let trophyCount = 55; // default
 try {
   const trophiesData = JSON.parse(readFileSync(join(here, 'app', 'data', 'trophies.json'), 'utf8'));
   trophyCount = trophiesData.trophies.length;
-  console.log(`GTA VI Trophy Guide loaded: ${trophyCount} trophies ready for tracking.`);
+  const roadmap = trophiesData.roadmap;
+  const roadmapPhases = roadmap.length;
+  const missableCount = trophiesData.trophies.filter(t => t.missable).length;
+  console.log(`GTA VI Trophy Guide loaded: ${trophyCount} trophies ready for tracking. Roadmap has ${roadmapPhases} phases. ${missableCount} missable trophies.`);
 } catch (e) {
   console.error('Could not read trophies.json:', e.message);
 }

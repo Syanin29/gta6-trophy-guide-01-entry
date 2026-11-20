@@ -210,3 +210,24 @@ header .progress {
 @media (prefers-reduced-motion: reduce) {
   .trophy-card, .stat-block .bar-fill { transition: none; }
 }
+
+/* v2: roadmap phases, missable warnings, guide meta */
+.roadmap-phases { display: flex; flex-direction: column; gap: 16px; }
+.phase-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
+.phase-card h3 { margin: 0 0 6px; font-size: 1.05rem; }
+.phase-goal { color: var(--fg-secondary); margin: 0 0 8px; }
+.phase-progress { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 0.85rem; }
+.phase-progress .bar { flex: 1; height: 6px; background: var(--bg-secondary); border-radius: 3px; overflow: hidden; }
+.phase-progress .bar-fill { height: 100%; background: var(--accent-teal); }
+.roadmap-rows { display: flex; flex-direction: column; gap: 3px; font-size: 0.9rem; }
+.roadmap-row.earned { opacity: 0.55; text-decoration: line-through; }
+.grade-chip { display: inline-block; padding: 1px 7px; border-radius: 10px; font-size: 0.7rem; font-weight: 600; text-transform: capitalize; border: 1px solid var(--border); }
+.grade-platinum { background: #e5e4e2; color: #222; }
+.grade-gold { background: #f5c542; color: #222; }
+.grade-silver { background: #c0c0c0; color: #222; }
+.grade-bronze { background: #cd7f32; color: #fff; }
+.missable-badge { background: #b3261e; color: #fff; padding: 1px 6px; border-radius: 4px; font-size: 0.65rem; font-weight: 700; }
+.missable-warning { background: rgba(179, 38, 30, 0.15); border: 1px solid #b3261e; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-size: 0.85rem; }
+.phase-notes { color: var(--fg-secondary); font-size: 0.85rem; margin: 8px 0 0; }
+.roadmap-intro { color: var(--fg-secondary); }
+.guide-section .meta { font-size: 0.8rem; color: var(--fg-secondary); margin: 4px 0; }

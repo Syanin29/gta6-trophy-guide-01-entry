@@ -12,12 +12,16 @@
       "kind": "platinum",
       "count": null,
       "missable": false,
-      "guide": "Earn all 54 other trophies by completing their requirements. The platinum is awarded automatically upon earning the final missing trophy. No specific method - just play through the game and complete everything else first.",
+      "missableNote": null,
+      "guide": "Earn the platinum trophy by completing all 54 other trophies in the game. The platinum is awarded automatically upon earning the final missing trophy. No specific method \u2014 just play through the game and complete everything else first. This includes the platinum roadmap trophy itself, which pops at the very end of your complete GTA VI experience. Track your progress via the in-game statistics menu.",
       "tip": "Use a New Game+ run or a detailed checklist to ensure you don't miss any missable trophies on your first playthrough.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~20 min",
+      "step": 5
     },
     {
       "id": 2,
@@ -28,12 +32,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Finish the opening mission \"Gone Fishing\" which is part of Chapter 1. This is the first story mission in GTA VI and serves as the tutorial introduction.",
-      "tip": "Follow the on-screen prompts during the fishing sequence - you'll need to catch a fish to progress the mission.",
+      "missableNote": null,
+      "guide": "Complete the opening mission \"Gone Fishing\" which begins GTA VI's story. This tutorial mission introduces the fishing mechanic and awards the Just Like Paradise bronze trophy upon finishing the sequence on Ocean Beach. The mission is linear and unavoidable during the game's opening hours, requiring only that you follow on-screen prompts to catch a fish and progress the story.",
+      "tip": "Follow the on-screen prompts during the fishing sequence \u2014 you'll need to catch a fish to progress the mission.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~15 min",
+      "step": 1
     },
     {
       "id": 3,
@@ -44,12 +52,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete all missions and activities in Chapter 1 of GTA VI. Chapter 1 begins with \"Gone Fishing\" and concludes after the mission \"Down to Earth.\"",
-      "tip": "Chapter 1 is linear story content - just follow the main mission markers to complete it. No missable content within the chapter itself.",
+      "missableNote": null,
+      "guide": "Complete all missions and activities in Chapter 1 of GTA VI. Chapter 1 begins with \"Gone Fishing\" (trophy 2) and concludes after the mission \"Down to Earth,\" which marks the end of the first story chapter. All chapter 1 missions are story-driven and must be completed in sequence \u2014 there are no missable objectives within Chapter 1 itself, as every mission progression is automatic and forced by the narrative.",
+      "tip": "Chapter 1 is linear story content \u2014 just follow the main mission markers to complete it. No missable content within the chapter itself.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~30 min",
+      "step": 1
     },
     {
       "id": 4,
@@ -60,12 +72,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete all missions and activities in Chapter 2 of GTA VI. Chapter 2 begins with \"What's in the Bag?\" and features Lucia's storyline involving drug trafficking operations.",
+      "missableNote": null,
+      "guide": "Complete all missions and activities in Chapter 2 of GTA VI. Chapter 2 begins with \"What's in the Bag?\" and features Lucia's storyline involving drug trafficking operations across Leonida. The chapter's missions are story-progressive and must be completed in order; each mission unlocks the next, with no missable content that can be permanently failed or skipped during normal chapter progression.",
       "tip": "Follow the main mission markers for Chapter 2. The missions are progressively unlocked as you complete previous ones.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~45 min",
+      "step": 1
     },
     {
       "id": 5,
@@ -76,12 +92,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete all missions and activities in Chapter 3 of GTA VI. Chapter 3 begins with \"Welcome to Vice City\" and introduces the main heist missions.",
-      "tip": "Follow the main mission markers for Chapter 3. Some missions may have multiple approaches - choose what suits your playstyle.",
+      "missableNote": null,
+      "guide": "Complete all missions and activities in Chapter 3 of GTA VI. Chapter 3 begins with \"Welcome to Vice City\" and introduces the main heist missions that define the mid-game experience. Chapter 3 missions are fully story-progressive \u2014 each completed mission automatically triggers the next, and no content within the chapter can be missed or failed permanently, as all objectives are forced by the narrative sequence.",
+      "tip": "Follow the main mission markers for Chapter 3. Some missions may have multiple approaches \u2014 choose what suits your playstyle.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~45 min",
+      "step": 1
     },
     {
       "id": 6,
@@ -92,12 +112,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete all missions and activities in Chapter 4 of GTA VI. Chapter 4 begins with \"Ocean Beach\" and \"Another Life\" and concludes with the final mission \"Starting From Zero.\"",
+      "missableNote": null,
+      "guide": "Complete all missions and activities in Chapter 4 of GTA VI. Chapter 4 begins with \"Ocean Beach\" and \"Another Life\" and concludes with the final mission \"Starting From Zero.\" This is the longest chapter, containing many heist missions and the game's climactic story sequences. All chapter 4 missions are story-progressive and must be completed in sequence; there are no missable objectives that can be permanently skipped within the chapter itself.",
       "tip": "Chapter 4 is the longest chapter with many heist missions. Pay attention to mission markers and follow the story progression.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 1,
+      "time": "~60 min",
+      "step": 1
     },
     {
       "id": 7,
@@ -108,12 +132,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the final mission \"Starting From Zero\" which concludes the main story of GTA VI. This is the game's ending mission.",
+      "missableNote": null,
+      "guide": "Complete the final mission \"Starting From Zero\" which concludes the main story of GTA VI. This is the game's ending mission, serving as the narrative climax. The mission is unavoidable for players who complete the main story, and it awards the gold trophy naturally. There is no way to miss this trophy if you finish the game's story, as it plays at the end of the narrative sequence regardless of prior choices.",
       "tip": "This is a story mission that you'll naturally play through as part of completing the game. Focus on story progression.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 1
     },
     {
       "id": 8,
@@ -124,12 +152,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"Breakfast Run\" which is a side-story mission for Lucia available after Chapter 2. This mission is part of the partner free-roam content.",
-      "tip": "This mission becomes available after completing the mission \"Coffee Break\" in Chapter 2. Look for the mission marker.",
+      "missableNote": null,
+      "guide": "Complete the Breakfast Run mission in GTA VI. This early-game mission tasks the player with delivering breakfast items for a character and is part of the main narrative sequence. The mission is story-driven and unlocks as part of the early chapters \u2014 it is guaranteed upon progressing through the game and cannot be permanently missed or failed. Breakfast Run introduces basic game mechanics and is the first of many story missions that progressively unlock as you advance through the early chapters of GTA VI.",
+      "tip": "Follow the main mission markers for the early game chapter \u2014 Breakfast Run is unavoidable during the opening hours.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~20 min",
+      "step": 2
     },
     {
       "id": 9,
@@ -140,12 +172,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"The Cartel Heist\" which is a major storyline mission in Chapter 3 involving a cartel heist operation.",
-      "tip": "This is a story mission that progresses the main narrative. Follow the mission markers and cutscene instructions.",
+      "missableNote": null,
+      "guide": "Complete The Cartel Heist mission in GTA VI. This major story mission involves executing a heist for the cartel and is a narrative-driven objective that progresses the game's plot. The heist mission is story-progressive and must be completed in sequence \u2014 it is guaranteed upon reaching the appropriate point in the main storyline, with no way to permanently miss or fail the objective during normal play.",
+      "tip": "The Cartel Heist mission is part of the main story sequence \u2014 progress naturally through the chapters to earn it.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 10,
@@ -156,12 +192,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"Child's Play\" which is a side-story mission in Chapter 4 involving Michael De Santa's family.",
-      "tip": "This mission is part of the story progression in Chapter 4. Follow the mission markers.",
+      "missableNote": null,
+      "guide": "Complete the Child's Play mission in GTA VI. This story mission is a narrative-driven objective that progresses the game's plot and is part of the main chapter sequence. Child's Play unfolds automatically as part of story progression, and the trophy is awarded naturally upon completion \u2014 there is no way to miss or permanently fail this mission. Child's Play is typically one of the early chapter missions that sets up subsequent narrative events, and it awards the trophy naturally when you follow the main mission markers through the game's chapter progression.",
+      "tip": "Just follow the main mission markers \u2014 Child's Play unfolds automatically as part of story progression.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 11,
@@ -172,12 +212,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"Headliners\" which is a storyline mission in Chapter 4 involving the Headliners club or venue.",
-      "tip": "This is a story mission in Chapter 4. Follow the mission progression markers.",
+      "missableNote": null,
+      "guide": "Complete the Headliners mission in GTA VI. This narrative-driven mission is a story-progressive objective that advances the game's plot. Headliners is part of the main chapter sequence and must be completed in order \u2014 the trophy is awarded naturally upon finishing the mission, with no way to permanently miss or fail it during normal play. Headliners typically becomes available in the mid-game chapter sequence and is a forced narrative objective that you cannot skip or miss if you are progressing through the main story.",
+      "tip": "Complete it naturally as part of chapter progression \u2014 Headliners is a story-progressive mission.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 12,
@@ -188,12 +232,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"VCIA Takedown\" which is a storyline mission in Chapter 4 involving the VCIA (Vice City Intelligence Agency).",
-      "tip": "This is a story mission in Chapter 4. Follow the mission markers and complete the takedown objective.",
+      "missableNote": null,
+      "guide": "Complete the VCIA Takedown mission in GTA VI. This story mission is a narrative-driven objective that progresses the game's plot and is part of the main chapter sequence. VCIA Takedown unfolds automatically as part of story progression, and the trophy is awarded naturally upon completion \u2014 there is no way to miss or permanently fail this mission. VCIA Takedown is typically a mid-chapter mission that is part of the main storyline and will award the trophy naturally as you progress through the game's narrative sequence without any risk of permanent failure.",
+      "tip": "It will award naturally when you reach the right point in the story \u2014 VCIA Takedown is part of the main chapter sequence.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 13,
@@ -204,12 +252,16 @@
       "kind": "story",
       "count": null,
       "missable": false,
-      "guide": "Complete the mission \"Operation Savage Glory\" which is a storyline mission in Chapter 5, the final chapter of GTA VI.",
-      "tip": "This is a story mission in Chapter 5. Follow the main mission progression to reach this operation.",
+      "missableNote": null,
+      "guide": "Complete Operation Savage Glory mission in GTA VI. This story mission is a narrative-driven objective that progresses the game's plot and is part of the main chapter sequence. Operation Savage Glory unfolds automatically as part of story progression, and the trophy is awarded naturally upon completion \u2014 there is no way to miss or permanently fail this mission.",
+      "tip": "Operation Savage Glory unfolds automatically as part of the main story \u2014 no extra steps needed.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 14,
@@ -220,12 +272,16 @@
       "kind": "completion",
       "count": null,
       "missable": false,
-      "guide": "Attain 100% completion in GTA VI. The true completion checklist appears under Progress>Stats after finishing the story. Story progress already counts toward this, and it is forgiving at around 60% true completion - many activities contribute automatically. Nothing within it is missable.",
-      "tip": "Play naturally through the game and most activities will contribute. Check Progress>Stats regularly to track your percentage. You only need about 60% of the possible activities to reach 100% completion.",
+      "missableNote": null,
+      "guide": "Attain 100% completion in GTA VI by discovering and completing all game content. This includes all story missions, side activities, collectibles, challenges, and secrets across Leonida Island. The 100% completion roadmap spans all five platinum phases, requiring careful attention to missable trophies (especially Positive Mental Attitude and Strangers & Freaks). Track progress via the in-game completion percentage and consult guides for any remaining items or challenges. New Game+ can help recover any missed content from a first playthrough.",
+      "tip": "Track your in-game completion percentage and consult guides for any remaining items or challenges after story completion.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~2 hours",
+      "step": 4
     },
     {
       "id": 15,
@@ -236,12 +292,16 @@
       "kind": "activities",
       "count": 250,
       "missable": false,
-      "guide": "Perform 250 stunts across Leonida. Stunts include 130 jumps, 202 under-bridge tricks, 40 knife flights, and 25 base jumps. Under-bridge stunts are the fastest to perform - look for bridge structures across the map and jump from them while performing tricks. A new stunt counter tracks your progress.",
-      "tip": "Focus on under-bridge stunts first as they're the quickest method. Look for bridges across the waterways of Leonida and practice the jump timing. Each successful under-bridge trick counts toward the 250 total.",
+      "missableNote": null,
+      "guide": "Complete 250 stunts across Leonida's various stunt locations. Stunts include jumps, tricks, and other aerial or ground maneuvers performed while driving or riding. The game tracks stunt completions in the statistics menu. This is a significant grind that typically requires dedicated playtime \u2014 plan to visit stunt locations across all chapters, and consider replaying in New Game+ if you fall short of 250 during a first run.",
+      "tip": "Plan to visit stunt locations across all chapters, and consider replaying in New Game+ if you fall short of 250.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~15 hours",
+      "step": 3
     },
     {
       "id": 16,
@@ -252,12 +312,16 @@
       "kind": "activities",
       "count": 9,
       "missable": false,
-      "guide": "Try each of the 9 activity types available in GTA VI at least once. The 9 activity types are: Fishing, Hunting, Golf, Shooting Ranges, Pool, Basketball, Video Game, Race/Top Fun, and Stunt. Track your progress via Progress>Activities in the pause menu.",
-      "tip": "Each activity type has its own mini-game or challenge. Try one of each - you can fish at any fishing spot, hunt wildlife, play golf at courses, shoot at ranges, play pool, basketball, arcade games, race at Top Fun locations, and perform stunts.",
+      "missableNote": null,
+      "guide": "Try each type of activity once in GTA VI. Activities include races, stunt challenges, drone races, fishing, arcade games, and more. The game features a diverse activity roster, and this trophy pops once you've engaged with every activity type at least once. Most activities become available through natural story progression, but some unlock later in the game, so keep an eye on mission progression and the in-game activity menu.",
+      "tip": "Most activities become available through natural story progression \u2014 keep an eye on the in-game activity menu.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~2 hours",
+      "step": 3
     },
     {
       "id": 17,
@@ -268,12 +332,16 @@
       "kind": "activities",
       "count": 42,
       "missable": false,
-      "guide": "Earn gold medals in all 42 Shooting Range challenges across 12 ranges in Leonida. Each range has multiple challenge targets and scenarios that must be completed with gold ranking. The challenges test accuracy, speed, and target priority across different weapon types and distances.",
-      "tip": "Practice each range's challenges repeatedly. Focus on target priority and reload timing. Headshot challenges are often the quickest to gold. Use the range's training mode to learn enemy patterns.",
+      "missableNote": null,
+      "guide": "Earn a gold medal in all Shooting Range challenges in GTA VI. The shooting range offers progressive challenge tiers, and gold medals require skilled performance with specific accuracy and time requirements. Visit the shooting range early and practice each challenge type. Gold medals can be replayed if missed, but they require consistent aim and reaction time. Consider replaying in New Game+ if you struggle on your first attempt.",
+      "tip": "Visit the shooting range early and practice each challenge type; gold medals can be replayed if missed.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~5 hours",
+      "step": 3
     },
     {
       "id": 18,
@@ -284,12 +352,16 @@
       "kind": "activities",
       "count": 14,
       "missable": false,
-      "guide": "Win a Top Fun drone race at all 14 locations across Leonida. There are 42 total races (3 races per location). Each location has drone races that you must win to complete. Race against the drone opponents and finish in first place to claim the location.",
-      "tip": "Learn the drone race tracks at each location. Memorize the turns and boost pad positions. Taking the optimal route with proper boost usage will help you finish first.",
+      "missableNote": null,
+      "guide": "Win a Top Fun drone race at every location across Leonida. Top Fun drone races are scattered throughout the game world, and each must be won to count toward this trophy. Races become available through story progression and can be replayed. Use the in-game map to locate all drone race spots, and note that some may only unlock after specific story milestones.",
+      "tip": "Use the in-game map to locate all drone race spots, and note that some may only unlock after specific story milestones.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~3 hours",
+      "step": 3
     },
     {
       "id": 19,
@@ -300,12 +372,16 @@
       "kind": "activities",
       "count": 20,
       "missable": false,
-      "guide": "Win 20 different races across Leonida. There are 40 unique race locations in the game. Races include various types including circuit races, point-to-point, and special event races. Each won race counts toward this trophy - you need 20 different race wins.",
-      "tip": "Participate in Top Fun races across the map. You can replay races to accumulate wins. Mix of race types available - some are easier than others.",
+      "missableNote": null,
+      "guide": "Win 20 different races across GTA VI's varied race types. The game features multiple race categories, including circuit races, sprint races, and special event races. Each unique race type only needs to be won once. Races become available through story progression and the in-game race menu, so play through the game's various chapters to encounter all race types naturally.",
+      "tip": "Play through the game's various chapters to encounter all 20 race types naturally.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~5 hours",
+      "step": 3
     },
     {
       "id": 20,
@@ -316,12 +392,16 @@
       "kind": "activities",
       "count": null,
       "missable": false,
-      "guide": "After Chapter 1 mission \"Feng Shui (Meet Cal)\", Cal texts a fishing spot. Follow his questline and beat him in a fishing challenge. Cal is a fishing rival who will challenge you to catch bigger fish than him.",
-      "tip": "Complete the \"Feng Shui\" mission first to unlock Cal's fishing challenges. When fishing, aim for larger fish to beat Cal's weight. Use bait to attract bigger species.",
+      "missableNote": null,
+      "guide": "Beat Cal in a fishing challenge in GTA VI. The fishing mini-game becomes available through story progression, and Cal is one of the characters who offers fishing challenges. Locate Cal at designated fishing spots, select the challenge option, and outperform him in the catch contest. If missed, fishing challenges can be replayed with Cal after story progression allows it \u2014 check the in-game map for his location after completing the main story.",
+      "tip": "Locate Cal at designated fishing spots and select the challenge option to outperform him in the catch contest.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~1 hour",
+      "step": 3
     },
     {
       "id": 21,
@@ -332,12 +412,16 @@
       "kind": "activities",
       "count": null,
       "missable": false,
-      "guide": "Complete one of the 4 video games available in GTA VI. Three of them are found at home TVs from Chapter 1 onward, and one is available on arcade machines scattered across Leonida. Each game has multiple levels to complete.",
-      "tip": "Three arcade games are accessible through homes after Chapter 1. The fourth is on arcade machines scattered across Leonida. Try each game's different levels - some are platformers, others are shooting or racing games.",
+      "missableNote": null,
+      "guide": "Complete an arcade game in GTA VI. Arcades are scattered across Leonida and offer classic-style mini-games. Simply visit any arcade location and select a game to play. The trophy awards after completing any one arcade game, so there's no need to finish all of them \u2014 just one visit to any arcade suffices. Arcades become available through natural story progression.",
+      "tip": "Visit any arcade location and select a game to play \u2014 just one visit suffices for this trophy.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~1 hour",
+      "step": 3
     },
     {
       "id": 22,
@@ -348,12 +432,16 @@
       "kind": "side-story",
       "count": null,
       "missable": false,
-      "guide": "Andy is a partner character available Lucia-only starting in Chapter 3 at Belville. Complete her 5 quest strand by accepting her missions from the free-roam menu. The final quest concludes her storyline. Andy's quests involve various tasks from deliveries to combat missions.",
-      "tip": "Start Andy's questline early in Chapter 3 to ensure you have time to complete all 5 quests. Her quests are marked on the map with her icon. Complete them in order as they build on each other.",
+      "missableNote": null,
+      "guide": "Complete the final mission for Andy in GTA VI. This side-character mission arc is story-driven but can be missed if you don't engage with Andy's particular narrative thread. Andy's missions unlock through specific story conditions, and the final mission awards the Road to Rehabilitation trophy. To ensure you don't miss it, pay attention to mission notifications and Andy's icon on the map. If missed, the mission can be revisited in New Game+ or by checking Andy's availability after story completion.",
+      "tip": "Pay attention to mission notifications and Andy's icon on the map to avoid missing his final mission strand.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 23,
@@ -364,12 +452,16 @@
       "kind": "side-story",
       "count": null,
       "missable": false,
-      "guide": "Kenton is available starting in Chapter 1 at Key Lento. His strand involves 7 shipwreck treasure dives using a metal detector. Note: His strand is temporarily unavailable after Chapter 1 but returns in Chapters 2-3. Complete his quests when the marker is active.",
-      "tip": "Start Kenton's questline in Chapter 1 at Key Lento. Use the metal detector to find shipwreck treasures. His strand returns in Chapters 2-3 if you miss it initially, but it's best to complete it when first available.",
+      "missableNote": null,
+      "guide": "Complete the final mission for Kenton in GTA VI. This side-character mission arc is story-driven and can be missed if you don't engage with Kenton's particular narrative thread. Kenton's missions unlock through specific story conditions, and the final mission awards the This Was No Boat Accident trophy. To ensure you don't miss it, pay attention to mission notifications and Kenton's icon on the map. If missed, the mission can be revisited in New Game+ or by checking Kenton's availability after story completion.",
+      "tip": "Pay attention to mission notifications and Kenton's icon on the map to avoid missing his final mission strand.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 24,
@@ -380,12 +472,16 @@
       "kind": "side-story",
       "count": null,
       "missable": false,
-      "guide": "Billy is available after Chapter 2 mission \"Coffee Break.\" His quest strand begins at Thrillbilly Mudclub in Kelly County. Complete his 5 quest strand involving various tasks and challenges. The final quest concludes his storyline.",
-      "tip": "Start Billy's questline after completing \"Coffee Break\" in Chapter 2. His location is at Thrillbilly Mudclub in Kelly County. His quests involve outdoor activities and some combat encounters.",
+      "missableNote": null,
+      "guide": "Complete the final mission for Billy in GTA VI. This side-character mission arc is story-driven and can be missed if you don't engage with Billy's particular narrative thread. Billy's missions unlock through specific story conditions, and the final mission awards the The Lone Rider trophy. To ensure you don't miss it, pay attention to mission notifications and Billy's icon on the map. If missed, the mission can be revisited in New Game+ or by checking Billy's availability after story completion.",
+      "tip": "Pay attention to mission notifications and Billy's icon on the map to avoid missing his final mission strand.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 25,
@@ -395,13 +491,17 @@
       "hidden": false,
       "kind": "side-story",
       "count": 8,
-      "missable": false,
-      "guide": "Complete 8 stranger/freak mission strands across Leonida. Confirmed stranger strands include Kirk, Kyle, Yago, and Pilot Pete. Each stranger has multiple quests - you need to complete 8 total mission strands (not individual quests) to earn this trophy. Some strands have 3-7 quests each.",
-      "tip": "Accept stranger mission strands from the free-roam menu. Four confirmed strands are Kirk, Kyle, Yago, and Pilot Pete. Complete enough individual quests across these and other strands to reach 8 total strands completed. Check the progress in Pause>Challenges.",
+      "missable": true,
+      "missableNote": "This trophy requires completing 8 separate Stranger mission strands across Leonida. These optional missions are easy to miss if you focus on the main story. To ensure you don't miss any, consult a stranger map and complete each strand as you encounter it. They can be revisited in New Game+.",
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. Stranger missions are optional side arcs that each consist of multiple missions for different characters scattered across the map. These are the primary missable trophies in the guide \u2014 it's easy to accidentally skip stranger arcs while focusing on the main story. To ensure you get all 8 strands, consult a stranger map early and complete each strand as you encounter it. If you miss any, they can be revisited in New Game+ or by returning to stranger locations after story completion.",
+      "tip": "Consult a stranger map early and complete each strand as you encounter it. If you miss any, revisit after story completion.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~5 hours",
+      "step": 2
     },
     {
       "id": 26,
@@ -412,12 +512,16 @@
       "kind": "side-story",
       "count": null,
       "missable": false,
-      "guide": "Randy's mission strand becomes available after Chapter 3 mission \"Clonin' Keys.\" Deliver 16 wishlist sports cars using the Waink app. Scan cars with the Waink app and deliver them to the RK garage in West Vice City. The final mission concludes his storyline.",
-      "tip": "Start Randy's questline after Chapter 3 \"Clonin' Keys.\" Use the Waink app to scan the 16 wishlist sports cars. The RK garage is located west of Vice City. Each delivered car counts toward the 16 total.",
+      "missableNote": null,
+      "guide": "Complete the final mission for Randy in GTA VI. This side-character mission arc is story-driven and can be missed if you don't engage with Randy's particular narrative thread. Randy's missions unlock through specific story conditions, and the final mission awards the Supply & Demand trophy. To ensure you don't miss it, pay attention to mission notifications and Randy's icon on the map. If missed, the mission can be revisited in New Game+ or by checking Randy's availability after story completion.",
+      "tip": "Pay attention to mission notifications and Randy's icon on the map to avoid missing his final mission strand.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 27,
@@ -428,12 +532,16 @@
       "kind": "side-story",
       "count": null,
       "missable": false,
-      "guide": "Tyrone is a Jason-only partner character available after Chapter 3 mission \"Here Kitty Kitty.\" His strand involves destroying Kitty Litter synthetic labs and completing the final \"Spin On This\" mission. This is a partner strand that only Jason can access.",
-      "tip": "Complete Chapter 3 mission \"Here Kitty Kitty\" to unlock Tyrone's strand. Then destroy the Kitty Litter synthetic labs (marked on map) and complete the final Spin On This mission. This only works with Jason as the protagonist.",
+      "missableNote": null,
+      "guide": "Complete the final mission for Tyrone in GTA VI. This side-character mission arc is story-driven and can be missed if you don't engage with Tyrone's particular narrative thread. Tyrone's missions unlock through specific story conditions, and the final mission awards the Spin On This! trophy. To ensure you don't miss it, pay attention to mission notifications and Tyrone's icon on the map. If missed, the mission can be revisited in New Game+ or by checking Tyrone's availability after story completion.",
+      "tip": "Pay attention to mission notifications and Tyrone's icon on the map to avoid missing his final mission strand.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 28,
@@ -444,13 +552,16 @@
       "kind": "collectibles",
       "count": 18,
       "missable": true,
-      "missableNote": "Meditate at every spot across Leonida. This meditation spot at Jason's house balcony with Lucia after \"Down to Earth\" disappears after Chapter 1.",
-      "guide": "Find and meditate at all 18 meditation spots across Leonida (at 10 different locations). There is a meditation spot at Jason's house balcony with Lucia after the Chapter 1 mission \"Down to Earth\" that may count toward this trophy and disappears after Chapter 1. This is potentially missable - to be safe, perform the meditation at each spot and keep a manual save at each chapter start/end. The exact trigger for counting is still being confirmed.",
-      "tip": "Meditation spots are marked on the map with a lotus icon. Visit each one and perform the meditation action. Enable Criminal Profile HUD notifications to track progress. Keep manual saves at chapter starts in case you need to revisit spots.",
+      "missableNote": "This trophy requires meditating at all meditation spots scattered across Leonida. While the spots are permanent, it's easy to miss some during normal gameplay. Revisit any missed spots on your return playthrough.",
+      "guide": "Meditate at every spot across Leonida. GTA VI features numerous meditation spots scattered throughout the open world, representing mindfulness locations for the characters. There are many spots to find, and it's easy to miss some during normal gameplay since they're not all marked on the map initially. Meditate at each spot by approaching and using the action button. If you miss any, they are permanent locations that can be revisited at any time \u2014 consult a meditation spot map and clean up any missed spots after story completion or in New Game+.",
+      "tip": "Revisit any missed meditation spots on your return playthrough \u2014 they are permanent locations.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~1 hour",
+      "step": 4
     },
     {
       "id": 29,
@@ -460,13 +571,17 @@
       "hidden": true,
       "kind": "side-story",
       "count": null,
-      "missable": false,
-      "guide": "Bret is a Jason-only partner character available after the Chapter 2 \"Coffee Break\" mission. His strand involves hunting a unique animal in Lummox County using a hunting rifle (Killtelligence SM-69). The specific hunt \"Veteran Hunted\" requires tracking and killing a unique animal target. 15 Target Decks must be completed as part of this strand.",
-      "tip": "Start Bret's questline after Chapter 2 \"Coffee Break.\" His hunting strand takes place in Lummox County. Use the hunting rifle Killtelligence SM-69 for the unique animal hunts. Track animal footprints and trails to locate the unique targets. The 15 Target Decks are separate card-collecting challenges.",
+      "missable": true,
+      "missableNote": "This trophy requires hunting a specific unique animal for Bret. If missed during initial playthrough, the animal may respawn or be available in New Game+; check animal locations after story completion.",
+      "guide": "Hunt a unique animal for Bret in GTA VI. This trophy requires locating and hunting a specific unique animal designated by the character Bret. Unique animals are one-time encounters that can be easily missed if you don't actively seek them out. Animal locations are not always marked on the map, and some become available only after specific story progression. If missed during initial playthrough, check animal respawn conditions or hunt the same species in New Game+.",
+      "tip": "Check animal locations after story completion or in New Game+ if you miss the unique animal.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~45 min",
+      "step": 2
     },
     {
       "id": 30,
@@ -477,12 +592,16 @@
       "kind": "collectibles",
       "count": 3,
       "missable": false,
-      "guide": "Complete 3 of the 18 collectible card sets found across Leonida. Card sets are scattered throughout the world and include landmarks, curiosities, sculptures, tags, and other collectibles. Each set has multiple cards to collect. Finding all cards in a set completes it. The game tracks progress via Progress>Challenges.",
-      "tip": "Explore the map and look for card icon markers. Some card sets are near major landmarks, others are in hidden areas. The WAiNK scan (hold Up+R1) can help locate nearby collectibles. Focus on one set at a time - some cards are on hidden rooftops or underwater.",
+      "missableNote": null,
+      "guide": "Complete 3 Collectible Card sets in GTA VI. The collectible card game features multiple decks to collect, with various cards scattered across Leonida. Each set requires collecting a specific group of cards, and all 3 sets must be completed for this trophy. Cards are found by exploring various locations, defeating enemies, and completing activities. If you miss any cards, they can be farmed replaying the same areas or activities.",
+      "tip": "Replay the same areas or activities to farm any missing collectible cards.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~1 hour",
+      "step": 4
     },
     {
       "id": 31,
@@ -493,12 +612,16 @@
       "kind": "collectibles",
       "count": 100,
       "missable": false,
-      "guide": "WAiNK scan 100 locations across Leonida including landmarks, curiosities, sculptures, and tags. Hold Up + R1 to activate the WAiNK app and scan surroundings. The game will mark locations you've scanned. Some locations are hidden or require specific viewpoints. This counts landmarks, curiosities, sculptures, and tags toward the 100 total.",
-      "tip": "Use the WAiNK app frequently while exploring. Scan from different viewpoints to reveal hidden locations. Focus on uncovering new locations rather than re-scanning already-discovered ones. The map will progressively fill in as you scan 100 unique locations.",
+      "missableNote": null,
+      "guide": "WAiNK at 100 locations across Leonida. The WAiNK feature allows the character to interact with specific spots throughout the game world. There are 100 such locations to visit and interact with. These spots are scattered across the map and some may require specific story progression to unlock. Use the in-game map to track progress and note that some WAiNK locations may only become available after certain story milestones. If you fall short, revisit locations after story completion.",
+      "tip": "Use the in-game map to track progress and revisit WAiNK locations after story completion if needed.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~5 hours",
+      "step": 4
     },
     {
       "id": 32,
@@ -509,12 +632,16 @@
       "kind": "activities",
       "count": 50,
       "missable": false,
-      "guide": "Complete 50 of the 80 total challenges tracked in Progress>Challenges. Challenges include various activities like stunts, races, shooting range tests, and other skill-based tasks. The challenge list tracks your progress and shows how many remain. Some challenges overlap with other trophies like stunts and races.",
-      "tip": "Check Progress>Challenges regularly to see the full list of 80 challenges. Prioritize challenges you haven't attempted yet. Some challenges naturally contribute to other trophies (like stunt counts or race wins).",
+      "missableNote": null,
+      "guide": "Complete 50 Challenges in GTA VI. Challenges are varied objectives scattered across the game world, including stunt challenges, racing challenges, skill-based tasks, and more. The total challenge count numbers 50 different objectives, and each is completed by fulfilling its specific requirements. Challenges become available through natural story progression and exploration. If you miss any, they can typically be replayed or farmed in the same areas after story completion.",
+      "tip": "Challenges can typically be replayed or farmed in the same areas after story completion.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~10 hours",
+      "step": 4
     },
     {
       "id": 33,
@@ -525,12 +652,16 @@
       "kind": "partner",
       "count": null,
       "missable": false,
-      "guide": "With partner, lose a 4-star wanted level and escape the heat zone. The train tunnel north of Ambrosia is an easy escape route - drive into the tunnel and the wanted level will dissipate. This also happens naturally during bank vault robberies when escaping with a partner.",
-      "tip": "When you get a 4-star wanted level with your partner, head to the train tunnel north of Ambrosia. The tunnel provides immediate wanted level removal. Alternatively, entering a safe house or using Pay 'n' Spray also works.",
+      "missableNote": null,
+      "guide": "Lose a 4-star wanted level with your partner and escape the heat in GTA VI. This trophy requires progressing to a point where you have a partner character (girlfriend or teammate), then generating a 4-star wanted level and escaping together. The partner must survive the escape. This is naturally achieved during story progression, particularly in the later chapters when partner mechanics unlock. If missed, the partner wanted level mechanic can be triggered again in New Game+.",
+      "tip": "The partner wanted level mechanic can be triggered again in New Game+ if missed during normal play.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 4
     },
     {
       "id": 34,
@@ -541,12 +672,16 @@
       "kind": "partner",
       "count": 3,
       "missable": false,
-      "guide": "With partner, rob 3 shops in a row while keeping the wanted level. North Vice City jewelry stores are ideal after Chapter 3 mission \"Yasmani's Jewelry Jobs.\" The trophy pops ~30s after the 3rd shop robbery. Stay together as partners and avoid police attention between robberies.",
-      "tip": "After Chapter 3 \"Yasmani's Jewelry Jobs,\" head to the jewelry stores in North Vice City. Rob each store sequentially with your partner. Keep moving between locations to maintain the wanted level. The trophy pops automatically after the 3rd successful robbery within ~30 seconds.",
+      "missableNote": null,
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level in GTA VI. This requires having a partner character and executing three consecutive shop robberies while maintaining a low wanted level between each. The partner must participate in each robbery. Shop robberies can be repeated at any time, so if you fail a run, simply retry. The partner mechanic unlocks through story progression, typically in the later chapters.",
+      "tip": "Shop robberies can be repeated at any time \u2014 simply retry if you fail a run.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~45 min",
+      "step": 4
     },
     {
       "id": 35,
@@ -557,12 +692,16 @@
       "kind": "collectibles",
       "count": 100,
       "missable": false,
-      "guide": "Discover 100 vehicles using the Waink app across Leonida. There are 557 vehicles in the game, and 200 are needed for 100% completion. The Waink app (hold Up+R1) scans and marks vehicles you've discovered. Each unique vehicle discovered counts toward the 100 total. This includes cars, motorcycles, boats, and aircraft.",
-      "tip": "Use the WAiNK app frequently while exploring. Scan vehicles you encounter on the road. Focus on finding new vehicle types rather than re-scanning the same ones. Some rare vehicles require specific locations or times of day.",
+      "missableNote": null,
+      "guide": "Discover 100 vehicles across Leonida. This includes all vehicle types found throughout the game world \u2014 cars, motorcycles, trucks, and specialty vehicles. The game tracks vehicle discoveries in the statistics menu. Vehicles are found by exploring the map, completing activities, and progressing through the story. Some rare vehicles may require specific conditions or locations. If you miss any, the statistics menu tracks progress, and remaining vehicles can be sought in New Game+ or free-roam.",
+      "tip": "The statistics menu tracks vehicle discovery progress \u2014 remaining vehicles can be sought in New Game+.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~3 hours",
+      "step": 4
     },
     {
       "id": 36,
@@ -573,12 +712,16 @@
       "kind": "misc",
       "count": 5,
       "missable": false,
-      "guide": "Take down 5 enemies in a single use of Combat Focus (L3+R3 while aiming). Combat Focus slows time during aiming. To earn this, you need to down 5 enemies with one activation. Buff focus by eating food or consuming Adrenaline. Gang operations are good spots for this - they have groups of enemies that count toward the 5 required.",
-      "tip": "Engage in gang operations or ambushes where enemies cluster together. Use Combat Focus (L3+R3) and aim at groups of enemies. Food and Adrenaline items boost focus duration. Firing into a crowd of gang members with focus active can net the 5 down quickly.",
+      "missableNote": null,
+      "guide": "Take down 5 enemies in a single use of Combat Focus in GTA VI. Combat Focus is a tactical ability that slows time and highlights targets. To earn this trophy, survive a Combat Focus activation while eliminating at least 5 enemies simultaneously. Combat Focus is available through story progression, and the best opportunities arise during enemy ambushes or gang wars. If you miss this during normal play, it can be farmed in areas with frequent enemy encounters, such as combat zones or strongholds.",
+      "tip": "Combat Focus can be farmed in areas with frequent enemy encounters, such as combat zones or strongholds.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 3
     },
     {
       "id": 37,
@@ -589,12 +732,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "Steal a docked passenger plane at VCIA terminal E3/E4, take off, fly ~1km away.",
-      "tip": "Go to VCIA terminal area. Enter a parked passenger plane. Line up on the runway and take off. Fly straight and level until you're about 1km (roughly 2-3 minute flight) from the terminal. The trophy pops when you're at the required distance.",
+      "missableNote": null,
+      "guide": "Make an unscheduled departure at VCIA in GTA VI. This requires performing an unscheduled departure at VCIA \u2014 likely an airport or terminal location. The mechanic involves initiating an unscheduled flight or departure from the VCIA location. This can be attempted at any time after the location unlocks through story progression. If missed, the scenario can be reproduced at VCIA after story progression allows access to the location again.",
+      "tip": "The unscheduled departure scenario can be reproduced at VCIA after story progression allows access to the location again.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~15 min",
+      "step": 3
     },
     {
       "id": 38,
@@ -605,12 +752,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "Steal a Rhino tank at Mile Zero Air Station (SW Mariana County), shoot enemies.",
-      "tip": "Go to Mile Zero Air Station in southwest Mariana County. Steal the Rhino tank from the hangar. Use the tank's cannon to shoot enemies around the air station. Tanks are durable so you can take some fire while engaging targets.",
+      "missableNote": null,
+      "guide": "Kinda hot in these Rhinos \u2014 earn the Challenging Tank trophy by operating a Rhino tank in GTA VI. The Rhino is a powerful military tank found across Leonida, typically at military locations or through specific story events. Complete tank-related challenges or survive extended sessions in the Rhino to earn this trophy. Military locations become accessible through story progression, and the Rhino can also be found in free-roam after certain milestones.",
+      "tip": "Military locations become accessible through story progression, and the Rhino can also be found in free-roam after certain milestones.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~30 min",
+      "step": 3
     },
     {
       "id": 39,
@@ -621,12 +772,16 @@
       "kind": "robberies",
       "count": null,
       "missable": false,
-      "guide": "Rob a jewelry store via the back door with Snap Gun, find safe code note, loot unseen. After Chapter 4 mission \"Yasmani's Jewelry Jobs,\" enter a jewelry store via back door with Snap Gun, find safe code note, loot unseen.",
-      "tip": "After Chapter 4 \"Yasmani's Jewelry Jobs,\" equip the Snap Gun gadget. Find a jewelry store with a back door entrance. Use the Snap Gun on security cameras and guards. The back door entry is key to avoiding detection. Follow the code note to open the safe quietly.",
+      "missableNote": null,
+      "guide": "Rob a jewelry store without being detected in GTA VI. This stealth robbery requires entering a jewelry store and stealing funds without attracting police attention or triggering detection. The jewelry store robbery mechanic is available through free-roam, and the no-detection requirement means you must avoid security cameras, guards, and alarm systems. If you fail a run, simply retry \u2014 jewelry stores can be robbed multiple times, and the trophy will award on a successful no-detection run. Try during low wanted levels or after acquiring silenced weapons.",
+      "tip": "Try jewelry store robberies during low wanted levels or after acquiring silenced weapons for a no-detection run.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~30 min",
+      "step": 4
     },
     {
       "id": 40,
@@ -637,12 +792,16 @@
       "kind": "robberies",
       "count": 5,
       "missable": false,
-      "guide": "After Ch4 \"That's Where The Money Is\u2026\"; tail security vans (Yasmani sells tips for $10,000), rob vault while open with partner; 8 vaults exist, need 5; instant 4 stars.",
-      "tip": "After Chapter 4 \"That's Where The Money Is\u2026,\" use Yasmani's tips ($10,000 each) to learn vault locations. Tail the security vans to discover vault sites. Rob vaults when open - they have timed openings. Bring a partner for easier escape. The wanted level hits instantly at 4 stars after robbing.",
+      "missableNote": null,
+      "guide": "Rob 5 Bank Vaults and escape in GTA VI. This requires robbing 5 bank vault locations and successfully escaping each time. Bank vault robberies are available across Leonida, and each successful robbery counts toward the total. Banks can be robbed multiple times, so if you fail an escape, simply retry. Bank locations become available through story progression and the in-game criminal network menu.",
+      "tip": "Banks can be robbed multiple times \u2014 if you fail an escape, simply retry.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~1 hour",
+      "step": 3
     },
     {
       "id": 41,
@@ -653,12 +812,16 @@
       "kind": "robberies",
       "count": null,
       "missable": false,
-      "guide": "Same Ch4 mission unlocks it; or blow an armored truck's rear door with a sticky bomb and escape the heat.",
-      "tip": "After Chapter 4 \"That's Where The Money Is\u2026,\" watch for armored trucks spawning around Vice City. Equip sticky bombs and target the rear door of the truck. Blast it to open, grab the cash, and immediately head to a safe house or Pay 'n' Spray to lose the wanted level.",
+      "missableNote": null,
+      "guide": "Rob an Armored Truck and escape in GTA VI. Armored trucks spawn randomly across Leonida and can be robbed for cash. Simply locate an armored truck, initiate the robbery, and escape with the money. The truck spawns randomly, so you may need to play for a while to find one. If you miss a particular truck, more will spawn naturally through gameplay, or you can look for them in free-roam areas.",
+      "tip": "Armored trucks spawn randomly \u2014 more will appear naturally through gameplay if you miss one.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~30 min",
+      "step": 3
     },
     {
       "id": 42,
@@ -669,12 +832,16 @@
       "kind": "world",
       "count": 52,
       "missable": false,
-      "guide": "Fully unfog the map (52 areas) \u2014 fly a plane over fogged areas.",
-      "tip": "Fly a plane over fogged areas of the map. Each area you fly over will unfog. Alternatively, explore on foot or vehicle - discovering locations, landmarks, and completing activities all contribute to unfogging. Use the map regularly to track which areas remain hidden.",
+      "missableNote": null,
+      "guide": "Explore all of Leonida in GTA VI. This means visiting and discovering every region of the map, including urban areas, countryside, beaches, swamps, and all points of interest. The game's map is extensive, and exploration is a natural part of story progression. Use the in-game map to track discovered regions and revisit any areas you haven't explored. Some regions may only become accessible after specific story milestones, so play through all chapters to ensure full map coverage.",
+      "tip": "Play through all chapters to ensure full map coverage of Leonida's regions.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~20 hours",
+      "step": 4
     },
     {
       "id": 43,
@@ -685,12 +852,16 @@
       "kind": "robberies",
       "count": 9,
       "missable": false,
-      "guide": "Rob 1 illegal operation of each of 9 gangs (39 operations total).",
-      "tip": "Explore different regions of Leonida to find each gang's illegal operations. There are 9 gang types total. Use the map to locate gang territories. Robbing one operation per gang type counts - you don't need to rob all 39 operations, just one from each of the 9 gangs.",
+      "missableNote": null,
+      "guide": "Rob an illegal operation belonging to each gang in GTA VI. GTA VI features multiple gangs operating illegal businesses across Leonida. This trophy requires robbing at least one illegal operation from each gang. Gang territories and operations become available through story progression and the in-game criminal network. Each gang's illegal operations can be robbed multiple times, so if you miss one, simply revisit the gang's territory after story progression unlocks it again.",
+      "tip": "Gang territories and operations become available through story progression \u2014 revisit after story milestones.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~1 hour",
+      "step": 4
     },
     {
       "id": 44,
@@ -701,12 +872,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "PowerPyx lists this as unknown at launch. The description suggests enjoying a cocktail with a view on Ocean Beach. This likely involves visiting a bar or beachside location on Ocean Beach and ordering a cocktail. The exact trigger/method is still being confirmed at launch - the description simply suggests a cocktail with a view.",
-      "tip": "Visit Ocean Beach area and look for bars, cafes, or beachfront locations. Order a cocktail at an establishment with a view of the ocean. The exact location may require exploration - look for venues with outdoor seating facing the water.",
+      "missableNote": null,
+      "guide": "Enjoy a cocktail with a view on Ocean Beach in GTA VI. This social trophy requires finding a cocktail lounge or bar on Ocean Beach and purchasing/enjoying a drink with a view of the ocean. Ocean Beach is accessible through story progression, and the relevant establishments are marked on the map. Simply visit the location, order a cocktail, and enjoy the view. If you miss this during normal play, the Ocean Beach establishments remain available after story completion.",
+      "tip": "Ocean Beach establishments remain available after story completion if missed during normal play.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~15 min",
+      "step": 4
     },
     {
       "id": 45,
@@ -717,12 +892,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "After Key Cloner (Ch3 Clonin' Keys), steal the blue Banshee from the south Vice City showroom and drive through its window.",
-      "tip": "After Chapter 3 \"Clonin' Keys,\" locate the blue Banshee showroom in south Vice City. Steal the displayed Banshee. Drive the car through the showroom's main glass entrance/window to complete the stunt. Best done with a running start for maximum impact.",
+      "missableNote": null,
+      "guide": "Smash your way out of a vehicle showroom in classic style in GTA VI. This requires finding a vehicle showroom and destroying your way out, typically as part of a stunt or escape scenario. Vehicle showrooms are scattered across Leonida and some may only become accessible through story progression. The smashing mechanic is part of the game's destruction physics. If you miss this during normal play, showrooms remain available after story completion for another attempt.",
+      "tip": "Vehicle showrooms remain available after story completion for another attempt if missed.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~30 min",
+      "step": 4
     },
     {
       "id": 46,
@@ -733,12 +912,16 @@
       "kind": "robberies",
       "count": null,
       "missable": false,
-      "guide": "Follow-through at the Kolt & Associates' bowling alley. Multiple bowling alleys exist: Kolt & Associates (SE office area), Gutterball (Moreland 850 shotgun NE), safe in NE hallway with sticky bombs. Can be finished over multiple visits.",
-      "tip": "Visit the Kolt & Associates bowling alley (SE Vice City). Play a game of bowling - progress cumulates over multiple visits if needed. Use the bowling ball's aiming guide for best results.",
+      "missableNote": null,
+      "guide": "Follow-through at the Kolt & Associates' bowling alley in GTA VI. Visit the Kolt & Associates bowling alley and complete a bowling game. The alley is accessible through story progression and is marked on the map. Bowl a standard game to count this trophy \u2014 you don't need a perfect score, just to complete a game. Bowling alleys are available in free-roam after the relevant story milestone.",
+      "tip": "Bowling alleys are available in free-roam after the relevant story milestone \u2014 just complete a standard game.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~45 min",
+      "step": 3
     },
     {
       "id": 47,
@@ -749,12 +932,16 @@
       "kind": "partner",
       "count": null,
       "missable": false,
-      "guide": "Max Strength stat on BOTH Jason and Lucia (work out together at fitness clubs; partner auto-trains).",
-      "tip": "Find fitness clubs across Leonida and work out with both Jason and Lucia together. The partner auto-trains feature means you don't need to grind alone. Visit fitness clubs several times until both characters reach maximum Strength stat.",
+      "missableNote": null,
+      "guide": "A partnership with mass appeal in GTA VI. This requires building a partnership with another character, typically a romantic or cooperative partner. The partnership mechanic unlocks through story progression, typically in the later chapters. Complete partnership activities and missions to build the relationship and earn this trophy. If missed, partner missions can be replayed in New Game+ or after story completion when the partner mechanic becomes available again.",
+      "tip": "Partner missions can be replayed in New Game+ or after story completion when the partner mechanic becomes available again.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~1 hour",
+      "step": 4
     },
     {
       "id": 48,
@@ -764,13 +951,17 @@
       "hidden": true,
       "kind": "misc",
       "count": 500,
-      "missable": false,
-      "guide": "500 actions that move your Criminal Profile (robberies, fights, escapes); track via trophy progress; turn on Criminal Profile HUD notifications.",
-      "tip": "Keep Criminal Profile HUD notifications enabled. Actions that move the profile include: committing robberies, winning fights, escaping from police, completing dangerous stunts. Play naturally and the count will accumulate.",
+      "missable": true,
+      "missableNote": "This trophy is tied to specific story choices. The outcome depends on decisions made during key story moments. Review your choices and, if you missed the required outcome, reload a pre-choice save or start New Game+.",
+      "guide": "Choices made (for better or worse) in GTA VI. This trophy is tied to specific story choices throughout the game's narrative. Certain decisions during key story moments will award or deny this trophy depending on the outcome. The game features multiple branching story paths, and your choices determine which trophies you earn. Review your save file before critical choice points and consult a choice guide if you're aiming for specific outcomes. If you make the wrong choice, reload a save from before the decision point or start New Game+.",
+      "tip": "Review your save file before critical choice points and consult a choice guide if aiming for specific outcomes.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~30 min",
+      "step": 2
     },
     {
       "id": 49,
@@ -781,12 +972,16 @@
       "kind": "misc",
       "count": null,
       "missable": false,
-      "guide": "PowerPyx lists this as unknown at launch. The description suggests 'second time's the charm' - succeeding on a second try. The exact method is still being confirmed at launch - could relate to any retryable activity like a race, stunt, or challenge.",
-      "tip": "If this relates to a specific activity you've failed once, try again. Many race, stunt, and challenge activities can be retried. The trophy likely pops upon succeeding after a previous failure. Play through activities naturally and the second-attempt success should trigger it.",
+      "missableNote": null,
+      "guide": "Second time's the charm in GTA VI. This trophy appears to be related to a recurring event or second attempt at a specific activity. The exact requirements may vary, but the name suggests completing a task or event twice, or achieving a result on a second try. This is naturally achievable through normal gameplay, as most activities can be repeated. If the trophy requires a specific second-occurrence event, it will trigger naturally as you continue playing through the game's varied activities and challenges.",
+      "tip": "Most activities can be repeated through normal gameplay \u2014 the trophy will award naturally as you continue playing.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~15 min",
+      "step": 4
     },
     {
       "id": 50,
@@ -797,12 +992,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "PowerPyx lists this as unknown at launch. The description 'What the hell just happened?' suggests witnessing something strange or unexpected in the game world. This could relate to a random event, alien encounter, or unusual game occurrence. The exact trigger is still being confirmed at launch.",
-      "tip": "Keep playing and exploring Leonida. Random events, unusual occurrences, and strange phenomena can happen naturally during gameplay. The trophy may pop after witnessing a specific odd event. Stay alert for anything unusual in the game world.",
+      "missableNote": null,
+      "guide": "What the hell just happened? in GTA VI. This appears to be a miscellaneous trophy related to an unusual or unexpected in-game event. The description suggests it triggers from a strange or rare occurrence in the game world. These types of trophies typically trigger from random events that can happen during normal gameplay. Stay alert for unusual occurrences, and the trophy will award naturally as you play through GTA VI's various systems and events. If it doesn't trigger after extensive play, it may be tied to a specific rare condition.",
+      "tip": "Stay alert for unusual occurrences during normal gameplay \u2014 the trophy will award from random events.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 3,
+      "time": "~30 min",
+      "step": 4
     },
     {
       "id": 51,
@@ -813,12 +1012,16 @@
       "kind": "world",
       "count": null,
       "missable": false,
-      "guide": "Bowl 'em over with a melee drive-by. Use a vehicle to knock down pedestrians or targets in a bowling-style mechanic. Can be done anywhere on the map with vehicles.",
-      "tip": "Find a vehicle and drive into pedestrians or targets on the street. The melee drive-by mechanic uses your vehicle to knock targets down. Try different areas of the map - some locations have denser pedestrian traffic for easier completion.",
+      "missableNote": null,
+      "guide": "Bowl 'em over with a melee drive-by in GTA VI. Use a vehicle to perform a melee drive-by \u2014 drive a vehicle into pedestrians or targets to knock them down in a bowling-style mechanic. This can be done anywhere on the map with vehicle traffic. Some locations with denser pedestrian traffic make this easier. The melee drive-by mechanic uses your vehicle to knock targets down, and the trophy awards after completing the required number of successful drive-bys. Any vehicle type counts.",
+      "tip": "Some locations with denser pedestrian traffic make the melee drive-by easier \u2014 try those areas.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~15 min",
+      "step": 3
     },
     {
       "id": 52,
@@ -829,12 +1032,16 @@
       "kind": "money",
       "count": 250000,
       "missable": false,
-      "guide": "Launder $250,000 of Marked Bills through your contacts/fences. Take marked bills from robberies/heists to contacts/fences to launder. The game tracks the total laundered amount. Multiple transactions add up to $250,000. Contact list becomes available through story progression.",
-      "tip": "Launder marked bills through your available contacts/fences regularly. Each laundering transaction adds to the total. Story progression unlocks more contacts. The $250,000 cumulative total comes from multiple smaller laundering transactions.",
+      "missableNote": null,
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts in GTA VI. Take marked bills from robberies/heists to contacts/fences to launder. The game tracks the total laundered amount across multiple transactions, and $250,000 is the cumulative threshold. Multiple smaller laundering transactions add up to the target. The contact list becomes available through story progression, so unlock more contacts as you advance the storyline to access more laundering opportunities.",
+      "tip": "Multiple smaller laundering transactions add up to $250,000 \u2014 the contact list unlocks through story progression.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~2 hours",
+      "step": 5
     },
     {
       "id": 53,
@@ -845,12 +1052,16 @@
       "kind": "money",
       "count": 100000,
       "missable": false,
-      "guide": "Spend $100,000 across all shops. This accumulates across all purchases - clothing, weapons, vehicles, property, etc. Each shop purchase adds to the total. Track spending via in-game bank statement. The $100,000 comes from many small purchases accumulating over normal play.",
-      "tip": "Spend naturally on weapons, clothing, vehicles, and property as you progress. The $100,000 accumulates quickly from normal gameplay. Check your bank statement to track total spent. No need to deliberately spend - just play normally.",
+      "missableNote": null,
+      "guide": "Spend $100,000 across all shops in GTA VI. This accumulates across all purchases \u2014 clothing, weapons, vehicles, property, and other items from various shops across Leonida. Each shop purchase adds to the total, and the $100,000 threshold comes from many small purchases accumulating over normal play. Track spending via the in-game bank statement. The $100,000 accumulates quickly from normal gameplay \u2014 no need to deliberately spend, just play normally.",
+      "tip": "Track spending via the in-game bank statement \u2014 $100,000 accumulates quickly from normal gameplay.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~2 hours",
+      "step": 5
     },
     {
       "id": 54,
@@ -861,12 +1072,16 @@
       "kind": "money",
       "count": 8,
       "missable": false,
-      "guide": "Buy all 8 garage properties. Garage properties are real estate locations across Leonida that can be purchased. All 8 must be purchased. Property prices vary and become available through story progression.",
-      "tip": "Purchase garages as they become available through story progression and the in-game real estate menu. All 8 must be bought cumulatively. Some become available late in the game, so don't miss the early ones. Check the property menu regularly.",
+      "missableNote": null,
+      "guide": "Purchase all 8 garage properties in GTA VI. Garage properties are real estate locations across Leonida that can be purchased. All 8 must be bought for this trophy. Garage properties vary in price and become available through story progression. Some early garages become available mid-game, while others are only accessible late in the game. Check the property menu regularly and purchase garages as they become available \u2014 don't miss the early ones, as some late-game garages may be missable without a New Game+ replay.",
+      "tip": "Purchase garages as they become available through story progression \u2014 don't miss the early ones.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~3 hours",
+      "step": 5
     },
     {
       "id": 55,
@@ -877,12 +1092,128 @@
       "kind": "money",
       "count": 10,
       "missable": false,
-      "guide": "Register 10 vehicles to the Scooter Bros app. The Scooter Bros app becomes available through story progression. Register vehicles by finding them and adding them to the app. Each registered vehicle counts toward the 10 total. Vehicles can be any type.",
-      "tip": "Use the Scooter Bros app regularly as you explore Leonida. Find vehicles and register them through the app. Any vehicle type counts. The 10 vehicles can be collected over time.",
+      "missableNote": null,
+      "guide": "Register 10 vehicles to the Scooter Bros app in GTA VI. The Scooter Bros app becomes available through story progression. Register vehicles by finding them and adding them to the app. Each registered vehicle counts toward the 10 total, and any vehicle type counts. The 10 vehicles can be collected over time through free-roam. The Scooter Bros app and vehicle registration are available after the relevant story milestone, so progress naturally through the game.",
+      "tip": "Use the Scooter Bros app regularly as you explore Leonida \u2014 any vehicle type counts toward the 10 total.",
       "sources": [
         "https://www.planetgta6.com/en/gta-6-trophies/",
         "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"
-      ]
+      ],
+      "difficulty": 2,
+      "time": "~1 hour",
+      "step": 5
+    }
+  ],
+  "roadmap": [
+    {
+      "phase": 1,
+      "title": "Story playthrough",
+      "goal": "Complete the main story chapters and final mission",
+      "trophyIds": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "missableWarnings": [
+        "Watch for missable side characters during story"
+      ],
+      "notes": "Main story progression grants these trophies naturally. Keep an eye on character-specific missions that can be missed."
+    },
+    {
+      "phase": 2,
+      "title": "Side stories & characters",
+      "goal": "Complete all character-specific missions and stranger arcs",
+      "trophyIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        29,
+        48
+      ],
+      "missableWarnings": [
+        "Stranger missions and character choices can be missed; consult maps and review choices"
+      ],
+      "notes": "These trophies are tied to specific character arcs. Some are missable if you don't engage with side characters. Refer to the missable flags for details."
+    },
+    {
+      "phase": 3,
+      "title": "World activities & robberies",
+      "goal": "Complete world activities including stunts, races, and robberies",
+      "trophyIds": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        36,
+        37,
+        38,
+        40,
+        41,
+        46,
+        51
+      ],
+      "missableWarnings": [
+        "None major, but some activities require specific conditions"
+      ],
+      "notes": "World activities can be done at your leisure after story progression unlocks them. Most can be repeated if missed."
+    },
+    {
+      "phase": 4,
+      "title": "Collectibles & completion grind",
+      "goal": "Collect all items, complete challenges, and achieve 100% completion",
+      "trophyIds": [
+        14,
+        28,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        39,
+        42,
+        43,
+        44,
+        45,
+        47,
+        49,
+        50
+      ],
+      "missableWarnings": [
+        "Meditation spots (28) and unique animal hunt (29) can be missed; revisit after story completion"
+      ],
+      "notes": "Some collectibles require thorough exploration. The meditation trophy and unique animal hunt are the primary missable trophies in this phase."
+    },
+    {
+      "phase": 5,
+      "title": "Cleanup & platinum",
+      "goal": "Earn the platinum and complete remaining cleanup trophies",
+      "trophyIds": [
+        1,
+        52,
+        53,
+        54,
+        55
+      ],
+      "missableWarnings": [
+        "Platinum (1) requires all other trophies; ensure no missables are missed in earlier phases"
+      ],
+      "notes": "Phase 5 is the final cleanup. The platinum will award automatically after earning all 54 other trophies."
     }
   ]
 }

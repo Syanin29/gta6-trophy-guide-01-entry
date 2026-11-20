@@ -8,6 +8,7 @@ const DEMO_KEY = 'gta6-trophy-progress-demo';
 // Trophy data
 let allTrophies = [];
 let originalTrophies = [];
+let roadmapData = [];;
 let currentFilters = {
   search: '',
   grade: 'all',
@@ -68,6 +69,7 @@ async function loadTrophies() {
   try {
     const response = await fetch(API_BASE);
     const data = await response.json(); allTrophies = data.trophies || data;
+    roadmapData = data.roadmap || [];
     originalTrophies = JSON.parse(JSON.stringify(allTrophies)); // deep copy
     // Initialize progress for any trophies not in localStorage
     const earnedSet = getEarnedSet();
@@ -242,7 +244,7 @@ function render() {
           const nameText = prev.querySelector('.name').textContent;
           if (nameText === matchingTrophy.name) {
             section.style.display = 'block';
-            section.innerHTML = `<h4>How to Get It</h4><p>${matchingTrophy.guide}</p><p class="tip">${matchingTrophy.tip}</p><p class="sources">Sources: ${matchingTrophy.sources.map(s => `<a href="${s}" target="_blank">${s}</a>`).join(' ')}</p>`;
+            section.innerHTML = `<h4>How to Get It</h4><p>${matchingTrophy.guide}</p><p class="tip">${matchingTrophy.tip}</p><p class="meta">Difficulty: ${matchingTrophy.difficulty}/5 · Time: ${matchingTrophy.time} · Roadmap phase: ${matchingTrophy.step}</p>${matchingTrophy.missable && matchingTrophy.missibleNote ? `<p class="missable-warning">⚠ Missable: ${matchingTrophy.missibleNote}</p>` : ""}</p><p class="sources">Sources: ${matchingTrophy.sources.map(s => `<a href="${s}" target="_blank">${s}</a>`).join(' ')}</p>`;
             section.scrollIntoView({ behavior: 'instant', block: 'nearest' });
           }
         }
@@ -265,6 +267,7 @@ function render() {
 
 // Render trophy grid
 function renderTrophyGrid(trophies, earnedSet, demoMode) {
+  if (!trophyGrid) return;
   // Clear grid
   trophyGrid.innerHTML = '';
   
@@ -392,6 +395,7 @@ function renderTrophyGrid(trophies, earnedSet, demoMode) {
         <h4>How to Get It</h4>
         <p>${trophy.guide}</p>
         <p class="tip">${trophy.tip}</p>
+        <p class="meta">Difficulty: ${trophy.difficulty}/5 · Time: ${trophy.time} · Roadmap phase: ${trophy.step}</p>${trophy.missable && trophy.missibleNote ? `<p class="missable-warning">⚠ Missable: ${trophy.missibleNote}</p>` : ""}</p>
         <p class="sources">Sources: ${trophy.sources.map(s => `<a href="${s}" target="_blank">${s}</a>`).join(' ')}</p>
       `;
     } else {
@@ -424,7 +428,7 @@ function renderTrophyGrid(trophies, earnedSet, demoMode) {
   });
   
   // Update progress bar
-  progressEl.textContent = `${earnedCount} of ${total} earned (${percent}%)`;
+  if (progressEl) { progressEl.textContent = `${earnedCount} of ${total} earned (${percent}%)`; }
 }
 
 // Update progress display
@@ -432,7 +436,7 @@ function updateProgressDisplay(earnedSet) {
   const total = allTrophies.length;
   const earnedCount = [...earnedSet].length;
   const percent = Math.round((earnedCount / total) * 100);
-  progressEl.textContent = `${earnedCount} of ${total} earned (${percent}%)`;
+  if (progressEl) { progressEl.textContent = `${earnedCount} of ${total} earned (${percent}%)`; }
   
   // Update grade breakdown chips
   updateGradeChips(earnedSet);
@@ -467,137 +471,43 @@ function updateGradeChips(earnedSet) {
 }
 
 // Render roadmap section
+// Render roadmap section — data-driven from data.roadmap (5 platinum phases)
 function renderRoadmap(earnedSet) {
   if (!roadmapSection) return;
-  
+
+  const byId = {};
+  allTrophies.forEach(t => { byId[t.id] = t; });
+
+  let phasesHtml = '';
+  roadmapData.forEach(phase => {
+    const ids = phase.trophyIds || [];
+    const earnedInPhase = ids.filter(id => byId[id] && earnedSet.has(byId[id].name)).length;
+    const pct = ids.length ? Math.round((earnedInPhase / ids.length) * 100) : 0;
+    const rows = ids.map(id => {
+      const t = byId[id];
+      if (!t) return '';
+      const earned = earnedSet.has(t.name);
+      const miss = t.missable ? ' <span class="missable-badge">MISSABLE</span>' : '';
+      return `<div class="roadmap-row${earned ? ' earned' : ''}"><span class="grade-chip grade-${t.grade}">${t.grade}</span> ${t.name}${miss}</div>`;
+    }).join('');
+    const warnings = (phase.missableWarnings || []).map(w => `<div class="missable-warning">⚠ ${w}</div>`).join('');
+    phasesHtml += `
+      <div class="phase-card">
+        <h3><span class="step-num">${phase.phase}</span> ${phase.title}</h3>
+        <p class="phase-goal">${phase.goal}</p>
+        <div class="phase-progress"><div class="bar"><div class="bar-fill" style="width: ${pct}%"></div></div><span>${earnedInPhase}/${ids.length} earned</span></div>
+        ${warnings}
+        <div class="roadmap-rows">${rows}</div>
+        <p class="phase-notes">${phase.notes || ''}</p>
+      </div>`;
+  });
+
   roadmapSection.innerHTML = `
-    <h2>Platinum Roadmap</h2>
-    <div class="roadmap-steps">
-      <!-- Ordered steps for platinum -->
-      <div class="roadmap-step">
-        <span class="step-num">1</span>
-        <span>Complete Chapter 1 (Gone Fishing)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">2</span>
-        <span>Complete Chapter 2 (What's in the Bag?)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">3</span>
-        <span>Complete Chapter 3 (Welcome to Vice City)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">4</span>
-        <span>Complete Chapter 4 (Ocean Beach / Starting From Zero)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">5</span>
-        <span>Complete final mission (You Gotta Know When to Get Off)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">6</span>
-        <span>Earn Gold in all Shooting Range challenges (The Shootist)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">7</span>
-        <span>Win Top Fun drone races at all 14 locations (Top Fun)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">8</span>
-        <span>Complete 250 Stunts (Cunning Stunts)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">9</span>
-        <span>Discover 100 vehicles (Whip It Good)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">10</span>
-        <span>Max Strength on both characters (Personal Best)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">11</span>
-        <span>Launder $250,000 (Dime on the Dollar)</span>
-      </div>
-      <div class="roadmap-step">
-        <span class="step-num">12</span>
-        <span>Register 10 vehicles (On the Spot)</span>
-      </div>
-      <div class="roadmap-step missable-warning">
-        <span class="step-num">⚠</span>
-        <span>Missable Watch: Positive Mental Attitude (meditate at 18 spots, 1 Ch1 spot may disappear)</span>
-      </div>
-    </div>
+    <h2>Platinum Roadmap — 5 Phases, 55 Trophies</h2>
+    <p class="roadmap-intro">Work the phases in order. Missable trophies are flagged in every phase — grab them before moving on, or recover them later via mission replay / New Game+.</p>
+    <div class="roadmap-phases">${phasesHtml}</div>
   `;
-}
-
-// Render stats section
-function renderStats(earnedSet) {
-  if (!statsSection) return;
-  
-  // Calculate counts by grade
-  const gradeCounts = { platinum: 0, gold: 0, silver: 0, bronze: 0 };
-  const kindCounts = {};
-  const countProgress = { /* counted trophies with current progress */ };
-  
-  earnedSet.forEach(name => {
-    const t = allTrophies.find(t => t.name === name);
-    if (t) {
-      gradeCounts[t.grade]++;
-      kindCounts[t.kind] = (kindCounts[t.kind] || 0) + 1;
-    }
-  });
-  
-  // Calculate overall stats
-  const total = allTrophies.length;
-  const earnedCount = earnedSet.size;
-  const missingCount = total - earnedCount;
-  const percent = Math.round((earnedCount / total) * 100);
-  
-  // Build kind breakdown
-  let kindHtml = '';
-  const kindOrder = ['platinum', 'story', 'side-story', 'activities', 'collectibles', 'robberies', 'partner', 'world', 'money', 'misc'];
-  
-  kindOrder.forEach(kind => {
-    const count = kindCounts[kind] || 0;
-    if (count > 0) {
-      const barWidth = (count / total) * 100;
-      kindHtml += `
-        <div style="margin-bottom: 8px;">
-          <strong>${kind[0].toUpperCase() + kind.slice(1)}:</strong> ${count} 
-          <div style="width: 100px; height: 4px; background: var(--bg-secondary); border-radius: 2px; overflow: hidden; margin-top: 2px;">
-            <div style="width: ${barWidth}%; height: 100%; background: var(--accent-teal);"></div>
-          </div>
-        </div>`;
-    }
-  });
-  
-  // Build missing work list
-  const missingTrophies = allTrophies.filter(t => !earnedSet.has(t.name));
-  const missingWork = missingTrophies
-    .filter(t => t.count !== null) // Only counted trophies
-    .map(t => `${t.name}: ${t.count - (earnedSet.has(t.name) ? t.count : 0)} remaining`)
-    .slice(0, 10); // Show top 10
-  
-  statsSection.innerHTML = `
-    <div class="stats-overview">
-      <div class="stat-block">
-        <div class="grade">Earned</div>
-        <div class="count">${earnedCount}/${total}</div>
-        <div class="bar"><div class="bar-fill" style="width: ${percent}%"></div></div>
-      </div>
-      <div class="stat-block">
-        <div class="grade">Missing</div>
-        <div class="count">${missingCount}/${total}</div>
-      </div>
-    </div>
-    <h3>Kind Breakdown</h3>
-    ${kindHtml}
-    <h3>Estimated Remaining Work</h3>
-    <p>${missingWork.join('; ')}</p>
-  `;
-}
-
-// Handle URL hash/views
+}// Handle URL hash/views
 function handleViewHash() {
   const hash = window.location.hash;
   const demoMode = document.body.classList.contains('demo-mode');
